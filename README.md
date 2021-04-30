@@ -5,6 +5,8 @@
 - Work Life:
     - Systems Architect @ https://www.cognitivespace.com/
     - Part Time Instructor @ https://www.digitalcrafts.com/
+
 - Personal
     - Projects: https://www.neutron.studio/
     - Blog: https://hackernoon.com/u/pizzapanther
+    - Tech Talks @ PyTexas, PyBay, PyTennesse, and other local groups
