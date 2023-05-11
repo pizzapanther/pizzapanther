@@ -3,7 +3,7 @@
 ![refactor](https://media.giphy.com/media/322W3VduHG5elXisAh/source.gif)
 
 - Work Life:
-    - Systems Architect @ https://www.cognitivespace.com/
+    - Chief Architect @ https://www.cognitivespace.com/
     - Part Time Instructor @ https://www.digitalcrafts.com/
 
 - Personal
