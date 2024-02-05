@@ -9,4 +9,4 @@
 - Personal
     - Projects: https://www.neutron.studio/
     - Blog: https://hackernoon.com/u/pizzapanther
-    - Tech Talks @ PyTexas, PyBay, PyTennessee, and other local groups
+    - Tech Talks @ All Things Open, PyTexas, PyBay, PyTennessee, and other local groups
