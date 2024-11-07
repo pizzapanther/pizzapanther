@@ -5,6 +5,7 @@
 - Work Life:
     - Principal Engineer @ https://www.clarityschools.com/
     - Part Time Instructor @ https://www.digitalcrafts.com/
+    - Author of [Async Patterns in Django](https://www.asyncdjango.com/)
 
 - Personal
     - Projects: https://www.neutron.studio/
