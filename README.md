@@ -3,8 +3,7 @@
 ![refactor](https://media.giphy.com/media/322W3VduHG5elXisAh/source.gif)
 
 - Work Life:
-    - Principal Engineer @ https://www.clarityschools.com/
-    - Part Time Instructor @ https://www.digitalcrafts.com/
+    - Founding Engineer/CTO: Stealth AI Startup
     - Author of [Async Patterns in Django](https://www.asyncdjango.com/)
 
 - Personal
